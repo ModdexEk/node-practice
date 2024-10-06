@@ -1,6 +1,5 @@
 const yargs = require("yargs");
 const path = require("path");
-const util = require("util");
 const fs = require("fs");
 
 const args = yargs
